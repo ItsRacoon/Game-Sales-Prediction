@@ -11,7 +11,7 @@ from sklearn.pipeline import Pipeline
 
 # Load the dataset
 file_path = 'vgsales.csv'
-data = pd.read_csv("D:/Projects/Game prediction/vgsales.csv")
+data = pd.read_csv("./vgsales.csv")
 
 # Inspect data for preprocessing
 print("Data Shape:", data.shape)
