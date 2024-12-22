@@ -59,7 +59,7 @@ Ensure the dataset is in CSV format and properly structured. Include features su
 
 ## Screenshots
 ### 1. Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Figure_2.png)
 
 ### 2. Actual vs. Predicted Sales
 ![Actual vs Predicted Sales](Figure_1.png)
