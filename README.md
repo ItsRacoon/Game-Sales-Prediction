@@ -59,10 +59,10 @@ Ensure the dataset is in CSV format and properly structured. Include features su
 
 ## Screenshots
 ### 1. Feature Importance
-![Feature Importance](Figure_2.png)
+![Feature Importance](Images/Figure_2.png)
 
 ### 2. Actual vs. Predicted Sales
-![Actual vs Predicted Sales](Figure_1.png)
+![Actual vs Predicted Sales](Images/Figure_1.png)
 
 ## Technologies Used
 - **Programming Language**: Python
